@@ -1,1 +1,1 @@
-require('./utils/pg.js')
+require('./server/server')
